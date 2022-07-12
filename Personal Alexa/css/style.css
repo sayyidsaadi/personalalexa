@@ -1,0 +1,20 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+.micro i{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 60px;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+.micro i:hover{
+    background-color: brown;
+    color: #fff;
+}
